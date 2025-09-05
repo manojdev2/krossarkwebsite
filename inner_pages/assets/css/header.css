@@ -14,6 +14,10 @@
   box-shadow: 1px 1px 8px transparent;
 }
 
+.navbarhome{
+  top: 35px;
+}
+
 .navbar.header_navbar {
   background: transparent;
 }
